@@ -61,3 +61,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+ios-8.1.2-jb-userland
+ios-8.1.2-jb-userland.dSYM
